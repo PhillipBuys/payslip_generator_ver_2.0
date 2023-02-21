@@ -60,7 +60,6 @@ while number != '0':
         print('**********')
 
     elif gender == 'f':
-        print('female works')
         gross_pay = float(gross_pay)
         gross_after_paye = gross_pay - paye
         nett_pay = gross_after_paye - medical_aid
