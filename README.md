@@ -1,5 +1,5 @@
 # payslip_generator_ver_2.0
-Much more intricate calculations. 
+ 
 
 A company needs to print pay-slips for its employees. 
 
